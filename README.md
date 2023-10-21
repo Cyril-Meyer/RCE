@@ -1,6 +1,11 @@
 # RCE
-Reverse Code Engineering
+This repository has **educational** purposes and includes videos and reports that I made to **archive** my research in **Reverse Code Engineering**.
 
+If you are a beginner, I advise you to take a look at the **crackme** guides at the bottom of the list, the tables are filled in reverse chronological order.
+The most basic explanations have been made on the simplest crackme and are not necessarily repeated.  
+By starting this repository, I already have experience in the field, but we still start with fairly easy problems.
+
+List of symbols used:
 * 📜 Guide
 * 📝 Memorandum
 * 🎥 Video
