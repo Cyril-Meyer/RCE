@@ -15,10 +15,10 @@ List of symbols used:
 
 ### [crackmes.one](https://crackmes.one/)
 
-| Analysis | 🧲 | Name | Author | Language | Arch | Difficulty | Quality | Platform | Date |
-|:---:|:---:|:----:|:------:|:--------:|:----:|:----------:|:-------:|:--------:|:----:|
-|[📜](crackme/651db8f78b6aa566ae7234ec.md)|[🔗](https://crackmes.one/crackme/651db8f78b6aa566ae7234ec)| My first Crackme (Write a keygen) | sc0rp10n | C/C++ | x86-64 | 2.0 | 4.0 | Unix/linux etc. | 7:11 PM 10/04/2023 |
-|[📜](crackme/6522cc2f8b6aa566ae72366c.md)[🎥](https://www.youtube.com/watch?v=k9nHvJ5AZ7g)|[🔗](https://crackmes.one/crackme/6522cc2f8b6aa566ae72366c)| MasonCrackme | ABOLHB | .NET | x86-64 | 4.0 | 4.0 | Windows | 3:35 PM 10/08/2023 |
-|[📜](crackme/64fb27f4d931496abf909849.md)[🎥](https://www.youtube.com/watch?v=6LuIlvtA9Z4)|[🔗](https://crackmes.one/crackme/64fb27f4d931496abf909849)| Freemasonry | ABOLHB | .NET | x86-64 | 2.0 | 3.3 | Windows | 1:56 PM 09/08/2023 |
-|[📝](crackme/64e22875d931496abf908fdb.md)[🎥](https://www.youtube.com/watch?v=OIdSNTQ8ELI)|[🔗](https://crackmes.one/crackme/64e22875d931496abf908fdb)| skStr() crackme | C0pl3x | C/C++ | x86-64 | 2.0 | 3.5 | Windows | 2:51 PM 08/20/2023|
-| | | | | | | | | | |
+| Analysis | 🧲 | Name | Author | Language | Arch | Difficulty | Platform | Date |
+|:---:|:---:|:----:|:------:|:--------:|:----:|:----------:|:--------:|:----:|
+|[📜](crackme/651db8f78b6aa566ae7234ec.md)|[🔗](https://crackmes.one/crackme/651db8f78b6aa566ae7234ec)| My first Crackme (Write a keygen) | sc0rp10n | C/C++ | x86-64 | 2.0 | Unix/linux etc. | 7:11 PM 10/04/2023 |
+|[📜](crackme/6522cc2f8b6aa566ae72366c.md)[🎥](https://www.youtube.com/watch?v=k9nHvJ5AZ7g)|[🔗](https://crackmes.one/crackme/6522cc2f8b6aa566ae72366c)| MasonCrackme | ABOLHB | .NET | x86-64 | 4.0 | Windows | 3:35 PM 10/08/2023 |
+|[📜](crackme/64fb27f4d931496abf909849.md)[🎥](https://www.youtube.com/watch?v=6LuIlvtA9Z4)|[🔗](https://crackmes.one/crackme/64fb27f4d931496abf909849)| Freemasonry | ABOLHB | .NET | x86-64 | 2.0 | Windows | 1:56 PM 09/08/2023 |
+|[📝](crackme/64e22875d931496abf908fdb.md)[🎥](https://www.youtube.com/watch?v=OIdSNTQ8ELI)|[🔗](https://crackmes.one/crackme/64e22875d931496abf908fdb)| skStr() crackme | C0pl3x | C/C++ | x86-64 | 2.0 | Windows | 2:51 PM 08/20/2023|
+| | | | | | | | | |
