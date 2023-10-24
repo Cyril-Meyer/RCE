@@ -29,9 +29,9 @@ List of symbols used:
 
 ## Malware
 
-| Analysis | Language / Arch | Date |
-|:--------:|:---------------:|:----:|
-|[🧪](malware/f4e3282da56f5722c44c6b60c3792674ec3aa322.md)| Windows .NET | 2019 |
+| Analysis | Name (hash) | Language / Arch | Date |
+|:--------:|:----:|:---------------:|:----:|
+|[🧪](malware/f4e3282da56f5722c44c6b60c3792674ec3aa322.md)| f4e3282da56f5722c44c6b60c3792674ec3aa322 | Windows .NET | 2019 |
 
 
 
