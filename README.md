@@ -25,3 +25,13 @@ List of symbols used:
 |[📜🔑](crackme/64fb27f4d931496abf909849.md)[🎥](https://www.youtube.com/watch?v=6LuIlvtA9Z4)|[🔗](https://crackmes.one/crackme/64fb27f4d931496abf909849)| Freemasonry | ABOLHB | .NET | x86-64 | 2.0 | Windows | 09/08/2023 |
 |[📝🔑](crackme/64e22875d931496abf908fdb.md)[🎥](https://www.youtube.com/watch?v=OIdSNTQ8ELI)|[🔗](https://crackmes.one/crackme/64e22875d931496abf908fdb)| skStr() crackme | C0pl3x | C/C++ | x86-64 | 2.0 | Windows | 08/20/2023|
 | | | | | | | | | |
+
+
+## Tools
+I may mention names of tools in different guides, here is a list of most of the tools used with a link to download them as well as the features for which I find them useful.
+
+* [x64dbg](https://x64dbg.com/) : disassembler and debugger for windows PE target
+  * [snowman](https://github.com/x64dbg/snowman) : decompiler plugin
+* [IDA free](https://hex-rays.com/ida-free/) : disassembler, debugger and decompiler for windows and linux (debugger only work on same system)
+* [dnSpy](https://github.com/dnSpy/dnSpy) : decompiler and debugger for .NET
+* [cutter](https://cutter.re/) : decompiler and debugger for linux ELF target
