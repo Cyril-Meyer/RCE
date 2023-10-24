@@ -10,6 +10,7 @@ List of symbols used:
 * 📝 Memorandum
 * 🔑 Keygen / Key
 * ☠️ Crack / Patch
+* 🧪 Analysis
 * 🎥 Video
 * 🔗 Source URL
 
@@ -25,6 +26,13 @@ List of symbols used:
 |[📜🔑](crackme/64fb27f4d931496abf909849.md)[🎥](https://www.youtube.com/watch?v=6LuIlvtA9Z4)|[🔗](https://crackmes.one/crackme/64fb27f4d931496abf909849)| Freemasonry | ABOLHB | .NET | x86-64 | 2.0 | Windows | 09/08/2023 |
 |[📝🔑](crackme/64e22875d931496abf908fdb.md)[🎥](https://www.youtube.com/watch?v=OIdSNTQ8ELI)|[🔗](https://crackmes.one/crackme/64e22875d931496abf908fdb)| skStr() crackme | C0pl3x | C/C++ | x86-64 | 2.0 | Windows | 08/20/2023|
 | | | | | | | | | |
+
+## Malware
+
+| Analysis | Language / Arch | Date |
+|:--------:|:---------------:|:----:|
+|[🧪](malware/f4e3282da56f5722c44c6b60c3792674ec3aa322.md)| Windows .NET | 2019 |
+
 
 
 ## Tools
