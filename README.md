@@ -19,8 +19,8 @@ List of symbols used:
 
 | Analysis | 🧲 | Name | Author | Language | Arch | Difficulty | Platform | Crackme Date |
 |:---:|:---:|:----:|:------:|:--------:|:----:|:----------:|:--------:|:----:|
-|[📜☠️](crackme/6522ff948b6aa566ae723692.md)|[🔗](https://crackmes.one/crackme/6522ff948b6aa566ae723692)| PrimeKey Puzzle | PyroDeathAdder | C/C++ | x86 | 3.0 | Unix/linux etc. | 10/08/2023 |
-|[📜🔑](crackme/651db8f78b6aa566ae7234ec.md)|[🔗](https://crackmes.one/crackme/651db8f78b6aa566ae7234ec)| My first Crackme (Write a keygen) | sc0rp10n | C/C++ | x86-64 | 2.0 | Unix/linux etc. | 10/04/2023 |
+|[📜☠️](crackme/6522ff948b6aa566ae723692.md)|[🔗](https://crackmes.one/crackme/6522ff948b6aa566ae723692)| PrimeKey Puzzle | PyroDeathAdder | C/C++ | x86 | 3.0 | Unix/linux | 10/08/2023 |
+|[📜🔑](crackme/651db8f78b6aa566ae7234ec.md)|[🔗](https://crackmes.one/crackme/651db8f78b6aa566ae7234ec)| My first Crackme (Write a keygen) | sc0rp10n | C/C++ | x86-64 | 2.0 | Unix/linux | 10/04/2023 |
 |[📜🔑](crackme/6522cc2f8b6aa566ae72366c.md)[🎥](https://www.youtube.com/watch?v=k9nHvJ5AZ7g)|[🔗](https://crackmes.one/crackme/6522cc2f8b6aa566ae72366c)| MasonCrackme | ABOLHB | .NET | x86-64 | 4.0 | Windows | 10/08/2023 |
 |[📜🔑](crackme/64fb27f4d931496abf909849.md)[🎥](https://www.youtube.com/watch?v=6LuIlvtA9Z4)|[🔗](https://crackmes.one/crackme/64fb27f4d931496abf909849)| Freemasonry | ABOLHB | .NET | x86-64 | 2.0 | Windows | 09/08/2023 |
 |[📝🔑](crackme/64e22875d931496abf908fdb.md)[🎥](https://www.youtube.com/watch?v=OIdSNTQ8ELI)|[🔗](https://crackmes.one/crackme/64e22875d931496abf908fdb)| skStr() crackme | C0pl3x | C/C++ | x86-64 | 2.0 | Windows | 08/20/2023|
